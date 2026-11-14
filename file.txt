@@ -1,1 +1,2 @@
 resolved conflict
+commit  3
