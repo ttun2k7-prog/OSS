@@ -1,3 +1,4 @@
 commit 1
 commit  2
 feature-b  1
+feature-b  2
