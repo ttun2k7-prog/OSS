@@ -1,2 +1,3 @@
 base
 blue1
+blue2
